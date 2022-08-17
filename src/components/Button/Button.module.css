@@ -1,0 +1,19 @@
+.button {
+  border: none;
+  outline: none;
+  background-color: #ff3366;
+  color: #fcfcff;
+  padding: 18px 40px;
+  border-radius: 7px;
+  font-size: 1.25rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  letter-spacing: -0.3px;
+  font-family: "Euclid Circular A", sans-serif;
+  cursor: pointer;
+  transition: filter 0.3s;
+}
+
+.button:hover {
+  filter: brightness(0.85);
+}

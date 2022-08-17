@@ -2,4 +2,12 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Euclid Circular A", sans-serif;
+  text-decoration: none;
+  color: #fcfcff;
+}
+
+ul,
+li {
+  list-style: none;
 }

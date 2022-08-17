@@ -1,0 +1,33 @@
+.header_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header_container img {
+  cursor: pointer;
+}
+
+.navbar {
+  display: flex;
+  gap: 130px;
+}
+
+.navbar ul {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+.navbar ul li {
+  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 1.25rem;
+  letter-spacing: -0.3px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+ul li:hover {
+  color: #d5d5d6;
+}
