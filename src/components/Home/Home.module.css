@@ -1,7 +1,6 @@
 .home_container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
 }
 
 .home_content {
@@ -9,6 +8,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding-top: 130px;
+  width: 50vw;
 }
 
 .home_content .home_title {
@@ -90,8 +90,13 @@
   letter-spacing: -0.3px;
 }
 
-.home_image {
-  position: absolute;
-  left: 930px;
-  top: 105px;
+@media screen and (max-width: 1080px) {
+  .home_content {
+    flex-direction: column;
+    width: 100vw;
+  }
+
+  .home_image img {
+    display: none;
+  }
 }

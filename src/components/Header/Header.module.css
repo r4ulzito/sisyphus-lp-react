@@ -50,3 +50,23 @@ ul li:hover {
 .demo_button:hover {
   filter: brightness(0.85);
 }
+
+.menu_button {
+  display: none;
+  z-index: 2;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    display: none;
+  }
+
+  .menu_icon {
+    display: block;
+    cursor: pointer;
+  }
+
+  .menu_button {
+    display: block;
+  }
+}

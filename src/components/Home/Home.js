@@ -2,7 +2,7 @@
 import style from "./Home.module.css";
 // assets
 import emailIcon from "../../assets/email_icon.png";
-import homeImage from "../../assets/home_image.png";
+import homeImage from "../../assets/home_img.png";
 
 const Home = () => {
   return (
@@ -28,7 +28,7 @@ const Home = () => {
           <p className={style.credit}>@Createdbynamdesign</p>
         </div>
         <div className={style.home_image}>
-          <img src={homeImage} alt="home image" />
+          <img src={homeImage} alt="home img" />
         </div>
       </section>
     </>

@@ -1,3 +1,16 @@
-.App {
-  padding: 40px 125px;
+.app_container {
+  background-color: #28293e;
+  padding: 55px 215px;
+}
+
+@media screen and (max-width: 1080px) {
+  .app_container {
+    padding: 55px 80px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .app_container {
+    padding: 30px 60px;
+  }
 }

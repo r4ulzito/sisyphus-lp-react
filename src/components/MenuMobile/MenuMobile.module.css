@@ -1,0 +1,46 @@
+.menu_mobile_container {
+  background-color: #ff3366;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: showMenu 1s;
+}
+
+.menu_mobile_container img {
+  position: absolute;
+  top: 2rem;
+  right: 3rem;
+}
+
+.nav {
+  text-align: center;
+}
+
+.nav ul {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  font-size: 2rem;
+}
+
+.nav ul li {
+  cursor: pointer;
+}
+
+.close_menu_button {
+  cursor: pointer;
+}
+
+@keyframes showMenu {
+  from {
+    transform: translateY(-1000px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
