@@ -31,3 +31,22 @@
 ul li:hover {
   color: #d5d5d6;
 }
+
+.demo_button {
+  border: none;
+  outline: none;
+  background-color: #ff3366;
+  color: #fcfcff;
+  padding: 18px 40px;
+  border-radius: 7px;
+  font-size: 1.25rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  letter-spacing: -0.3px;
+  cursor: pointer;
+  transition: filter 0.3s;
+}
+
+.demo_button:hover {
+  filter: brightness(0.85);
+}

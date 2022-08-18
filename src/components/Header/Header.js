@@ -1,5 +1,3 @@
-// components
-import Button from "../Button/Button";
 // Styles
 import style from "./Header.module.css";
 // assets
@@ -16,7 +14,7 @@ const Header = () => {
             <li>Services</li>
             <li>Product</li>
           </ul>
-          <Button title="Demo" />
+          <button className={style.demo_button}>Demo</button>
         </nav>
       </header>
     </>
