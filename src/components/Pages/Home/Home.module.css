@@ -100,3 +100,34 @@
     display: none;
   }
 }
+
+@media screen and (max-width: 600px) {
+  .home_content {
+    padding-top: 100px;
+  }
+
+  .home_content .home_title {
+    font-size: 4.75rem;
+    line-height: 4rem;
+  }
+
+  .home_content .home_subtitle {
+    margin: 18px 0 0;
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+  }
+
+  .email_input_container {
+    padding-top: 30px;
+  }
+
+  .email_input input {
+    width: 100%;
+  }
+
+  .home_content .credit {
+    margin: 110px 0 0;
+    align-self: center;
+    font-size: 1rem;
+  }
+}

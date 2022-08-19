@@ -13,19 +13,18 @@
 
 .menu_mobile_container img {
   position: absolute;
-  top: 2rem;
-  right: 3rem;
+  top: 1rem;
+  right: 1rem;
 }
 
 .nav {
-  text-align: center;
-}
-
-.nav ul {
   display: flex;
   flex-direction: column;
   gap: 60px;
   font-size: 2rem;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
 }
 
 .nav ul li {

@@ -13,12 +13,10 @@ const MenuMobile = ({ setMenuIsVisible }) => {
         <img src={closeMenuIcon} alt="close menu" />
       </div>
       <nav className={style.nav}>
-        <ul>
-          <li onClick={() => setMenuIsVisible(false)}>About</li>
-          <li onClick={() => setMenuIsVisible(false)}>Services</li>
-          <li onClick={() => setMenuIsVisible(false)}>Product</li>
-          <li onClick={() => setMenuIsVisible(false)}>Demo</li>
-        </ul>
+        <li onClick={() => setMenuIsVisible(false)}>About</li>
+        <li onClick={() => setMenuIsVisible(false)}>Services</li>
+        <li onClick={() => setMenuIsVisible(false)}>Product</li>
+        <li onClick={() => setMenuIsVisible(false)}>Demo</li>
       </nav>
     </section>
   );

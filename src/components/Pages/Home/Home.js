@@ -1,8 +1,8 @@
 // style
 import style from "./Home.module.css";
 // assets
-import emailIcon from "../../assets/email_icon.png";
-import homeImage from "../../assets/home_img.png";
+import emailIcon from "../../../assets/email_icon.png";
+import homeImage from "../../../assets/home_img.png";
 
 const Home = () => {
   return (

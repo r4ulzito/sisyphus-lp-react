@@ -14,3 +14,9 @@
     padding: 30px 60px;
   }
 }
+
+@media screen and (max-width: 600px) {
+  .app_container {
+    padding: 20px 25px;
+  }
+}
