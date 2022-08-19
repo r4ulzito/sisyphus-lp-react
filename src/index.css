@@ -16,3 +16,8 @@ input,
 button {
   font-family: "Euclid Circular A", sans-serif;
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

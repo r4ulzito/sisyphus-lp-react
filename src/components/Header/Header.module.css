@@ -5,7 +5,11 @@
 }
 
 .header_container img {
-  cursor: pointer;
+  transition: all 1s;
+}
+
+.header_container img:hover {
+  transform: scale(1.05);
 }
 
 .navbar {
@@ -54,6 +58,12 @@ ul li:hover {
 .menu_button {
   display: none;
   z-index: 2;
+}
+
+@media screen and (max-width: 1080px) {
+  .navbar {
+    gap: 50px;
+  }
 }
 
 @media screen and (max-width: 768px) {

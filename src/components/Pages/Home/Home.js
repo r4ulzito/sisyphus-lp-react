@@ -25,7 +25,14 @@ const Home = () => {
             </label>
             <button className={style.send_button}>Send</button>
           </div>
-          <p className={style.credit}>@Createdbynamdesign</p>
+          <p className={style.credit}>
+            <a
+              href="https://www.linkedin.com/in/raul-de-souza/"
+              target="_blank"
+            >
+              @CreatedbyRauldeSouza
+            </a>
+          </p>
         </div>
         <div className={style.home_image}>
           <img src={homeImage} alt="home img" />
