@@ -11,9 +11,33 @@ const Header = ({ setMenuIsVisible }) => {
         <img src={logo} alt="logo" />
         <nav className={style.navbar}>
           <ul>
-            <li>About</li>
-            <li>Services</li>
-            <li>Product</li>
+            <li>
+              <a
+                rel="noopener noreferrer"
+                href="https://www.linkedin.com/in/raul-de-souza/"
+                target="_blank"
+              >
+                About
+              </a>
+            </li>
+            <li>
+              <a
+                rel="noopener noreferrer"
+                href="https://www.linkedin.com/in/raul-de-souza/"
+                target="_blank"
+              >
+                Services
+              </a>
+            </li>
+            <li>
+              <a
+                rel="noopener noreferrer"
+                href="https://www.linkedin.com/in/raul-de-souza/"
+                target="_blank"
+              >
+                Product
+              </a>
+            </li>
           </ul>
           <button className={style.demo_button}>Demo</button>
         </nav>

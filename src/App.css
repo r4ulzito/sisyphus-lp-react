@@ -3,6 +3,16 @@
   padding: 55px 215px;
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ff3366;
+  border-radius: 7px;
+  border: 2px solid #fcfcff;
+}
+
 @media screen and (max-width: 1080px) {
   .app_container {
     padding: 55px 80px;

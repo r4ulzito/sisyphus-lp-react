@@ -1,6 +1,6 @@
 // components
 import Header from "./components/Header/Header";
-import Home from "./components/Pages/Home/Home";
+import Main from "./components/Main/Main";
 import { useState } from "react";
 import MenuMobile from "./components/MenuMobile/MenuMobile";
 
@@ -20,7 +20,7 @@ function App() {
       ) : null}
       <div className="app_container">
         <Header setMenuIsVisible={setMenuIsVisible} />
-        <Home />
+        <Main />
       </div>
     </div>
   );

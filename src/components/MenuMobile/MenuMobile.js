@@ -13,10 +13,42 @@ const MenuMobile = ({ setMenuIsVisible }) => {
         <img src={closeMenuIcon} alt="close menu" />
       </div>
       <nav className={style.nav}>
-        <li onClick={() => setMenuIsVisible(false)}>About</li>
-        <li onClick={() => setMenuIsVisible(false)}>Services</li>
-        <li onClick={() => setMenuIsVisible(false)}>Product</li>
-        <li onClick={() => setMenuIsVisible(false)}>Demo</li>
+        <li onClick={() => setMenuIsVisible(false)}>
+          <a
+            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/raul-de-souza/"
+            target="_blank"
+          >
+            About
+          </a>
+        </li>
+        <li onClick={() => setMenuIsVisible(false)}>
+          <a
+            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/raul-de-souza/"
+            target="_blank"
+          >
+            Services
+          </a>
+        </li>
+        <li onClick={() => setMenuIsVisible(false)}>
+          <a
+            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/raul-de-souza/"
+            target="_blank"
+          >
+            Product
+          </a>
+        </li>
+        <li onClick={() => setMenuIsVisible(false)}>
+          <a
+            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/raul-de-souza/"
+            target="_blank"
+          >
+            Demo
+          </a>
+        </li>
       </nav>
     </section>
   );

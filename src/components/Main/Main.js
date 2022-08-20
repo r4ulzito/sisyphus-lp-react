@@ -1,20 +1,20 @@
 // style
-import style from "./Home.module.css";
+import style from "./Main.module.css";
 // assets
-import emailIcon from "../../../assets/email_icon.png";
-import homeImage from "../../../assets/home_img.png";
+import emailIcon from "../../assets/email_icon.png";
+import homeImage from "../../assets/home_img.png";
 
 const Home = () => {
   return (
     <>
-      <section className={style.home_container}>
-        <div className={style.home_content}>
-          <h1 className={style.home_title}>
+      <section className={style.main_container}>
+        <div className={style.main_content}>
+          <h1 className={style.main_title}>
             Manage
             <br /> your personal
             <br /> and all team task.
           </h1>
-          <p className={style.home_subtitle}>
+          <p className={style.main_subtitle}>
             Monitoring your personal and all team task
             <br /> more easily with us.
           </p>
@@ -27,6 +27,7 @@ const Home = () => {
           </div>
           <p className={style.credit}>
             <a
+              rel="noopener noreferrer"
               href="https://www.linkedin.com/in/raul-de-souza/"
               target="_blank"
             >
@@ -34,7 +35,7 @@ const Home = () => {
             </a>
           </p>
         </div>
-        <div className={style.home_image}>
+        <div className={style.main_image}>
           <img src={homeImage} alt="home img" />
         </div>
       </section>
