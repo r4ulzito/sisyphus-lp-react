@@ -11,12 +11,12 @@
 
 ## 📄 Explicação
 
-Este é meu primeiro projeto utilizando o framework React.js, nele consegui por em prática diversos dos conhecimentos que aprendi durante meus estudos, além de desenvolver as responsividade dos componentes da aplicação.
+Este é meu primeiro projeto utilizando o framework ReactJS, nele consegui por em prática diversos dos conhecimentos que aprendi durante meus estudos, além de desenvolver as responsividade dos componentes da aplicação.
 
 ## 🚀 Tecnologias
 
+- [ReactJS](https://pt-br.reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [React.js](https://www.linkedin.com/in/raul-de-souza/)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
@@ -28,7 +28,7 @@ Este é meu primeiro projeto utilizando o framework React.js, nele consegui por 
 
 ✅ Estruturação de Diretórios\
 ✅ Uso semântico do HTML\
-✅ Uso de React Hooks\
+✅ Uso de React Hooks para ativar o menu mobile\
 ✅ Componentização dos itens da página\
 ✅ Eventos de Click com `onCLick`\
 ✅ Aplicação de estilos globais\
