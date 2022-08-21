@@ -1,12 +1,13 @@
 <h1 align="center">📝 SISYPHUS - LANDING PAGE</h1>
 
 <div align="center">
-  <img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
+  <img src="https://user-images.githubusercontent.com/97764322/185774250-ebda1a6a-5d3f-4b5b-9b29-2ffa3d0ddd0a.gif" alt="preview gif">
 </div>
 
-> 🔎 Landing Page da ferramenta de gerenciamento fictícia Sisyphus
+> 🔎 Landing Page da ferramenta da gerenciamento fictícia Sisyphus
 
-🗔 Confira a aplicação: https://sisyphus-lp-react.netlify.app <br>
+🗔 Confira a aplicação: https://sisyphus-lp-react.netlify.app
+<br>
 
 ## 📄 Explicação
 
@@ -14,40 +15,40 @@ Este é meu primeiro projeto utilizando o framework React.js, nele consegui por 
 
 ## 🚀 Tecnologias
 
-- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 3](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 4](https://www.linkedin.com/in/raul-de-souza/)
-
-## 📡 API'𝘀 usadas na aplicação
-
-- (EMOJI) [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- (EMOJI) [Example 2](https://www.linkedin.com/in/raul-de-souza/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [React.js](https://www.linkedin.com/in/raul-de-souza/)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 ## 📚 Bibliotecas Usadas
 
-- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
+- [Google Fonts](https://fonts.google.com/)
 
 ## 📔 Conhecimentos Utilizados
 
+✅ Estruturação de Diretórios\
 ✅ Uso semântico do HTML\
-✅ Integração com a API do TMDB ao usar o `fetch`
+✅ Uso de React Hooks\
+✅ Componentização dos itens da página\
+✅ Eventos de Click com `onCLick`\
+✅ Aplicação de estilos globais\
+✅ Estilização de Componentes\
+✅ Uso de CSS Modules\
+✅ Efeitos de `transitions` e `transform` com `:hover`\
+✅ Responsividade com `@media`
 
 ## 📕 Como usar?
 
 Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
 
 ```bash
-# Clone this project
-$ git clone LINK DO SEU REPOSITÓRIO
-# Access
-$ cd NOME DA SUA PASTA
-# Install dependencies
+# Clone o Projeto
+$ git clone https://github.com/r4ulzito/sisyphus-lp-react.git
+# Instale as Dependências
 $ yarn or npm
-# Run the project
+# Inicie o projeto
 $ yarn start or npm start
-# The server will initialize in the <http://localhost:3000>
+# O servidor será inicializado em <http://localhost:3000>
 ```
 
 ## 🤝 Colaboradores
