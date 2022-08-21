@@ -1,10 +1,10 @@
-@import url("http://fonts.cdnfonts.com/css/euclid-circular-a?styles=100037,100036,100031");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
 
 body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Euclid Circular A", sans-serif;
+  font-family: "Poppins", sans-serif;
   text-decoration: none;
   color: #fcfcff;
 }
@@ -16,7 +16,7 @@ li {
 
 input,
 button {
-  font-family: "Euclid Circular A", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 a {
