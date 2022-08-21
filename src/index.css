@@ -1,3 +1,5 @@
+@import url("http://fonts.cdnfonts.com/css/euclid-circular-a?styles=100037,100036,100031");
+
 body {
   margin: 0;
   padding: 0;
@@ -20,8 +22,4 @@ button {
 a {
   text-decoration: none;
   color: inherit;
-}
-
-#root::-webkit-scrollbar-track {
-  background-color: orange;
 }

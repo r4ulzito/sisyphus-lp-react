@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+<h1 align="center">📝 SISYPHUS - LANDING PAGE</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
+</div>
 
-## Available Scripts
+> 🔎 Landing Page da ferramenta de gerenciamento fictícia Sisyphus
 
-In the project directory, you can run:
+🗔 Confira a aplicação: https://sisyphus-lp-react.netlify.app <br>
 
-### `npm start`
+## 📄 Explicação
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este é meu primeiro projeto utilizando o framework React.js, nele consegui por em prática diversos dos conhecimentos que aprendi durante meus estudos, além de desenvolver as responsividade dos componentes da aplicação.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Tecnologias
 
-### `npm test`
+- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
+- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
+- [Example 3](https://www.linkedin.com/in/raul-de-souza/)
+- [Example 4](https://www.linkedin.com/in/raul-de-souza/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📡 API'𝘀 usadas na aplicação
 
-### `npm run build`
+- (EMOJI) [Example 1](https://www.linkedin.com/in/raul-de-souza/)
+- (EMOJI) [Example 2](https://www.linkedin.com/in/raul-de-souza/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📚 Bibliotecas Usadas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
+- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📔 Conhecimentos Utilizados
 
-### `npm run eject`
+✅ Uso semântico do HTML\
+✅ Integração com a API do TMDB ao usar o `fetch`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📕 Como usar?
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+# Clone this project
+$ git clone LINK DO SEU REPOSITÓRIO
+# Access
+$ cd NOME DA SUA PASTA
+# Install dependencies
+$ yarn or npm
+# Run the project
+$ yarn start or npm start
+# The server will initialize in the <http://localhost:3000>
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🤝 Colaboradores
 
-## Learn More
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/r4ulzito.png" width="160px;" alt="Foto do Raul de Souza no GitHub"/><br>
+        <sub>
+          <b>Raul de Souza</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📝 Licença
 
-### Code Splitting
+Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+&#xa0;
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center">
+  <a href="#top">Volte para o topo</a>
+</div>
